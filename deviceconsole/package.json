@@ -1,0 +1,46 @@
+{
+  "name": "deviceconsole",
+  "version": "1.0.1",
+  "description": "iOS system log tailer that doesn't suck",
+  "main": "deviceconsole",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appium/deviceconsole.git"
+  },
+  "keywords": [
+    "iOS",
+    "log"
+  ],
+  "author": {
+    "name": "rpetrich@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rpetrich/deviceconsole/issues"
+  },
+  "homepage": "https://github.com/Jonahss/deviceconsole",
+  "gitHead": "88bbc9a5a45fe8a799b8dd61a9afabd9a9603d6b",
+  "_id": "deviceconsole@1.0.1",
+  "_shasum": "b7aa7f623c04300b388005a32e6c45cb998fcf45",
+  "_from": "deviceconsole@latest",
+  "_npmVersion": "2.0.0",
+  "_npmUser": {
+    "name": "jonahss",
+    "email": "jonahss@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonahss",
+      "email": "jonahss@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "b7aa7f623c04300b388005a32e6c45cb998fcf45",
+    "tarball": "https://registry.npmjs.org/deviceconsole/-/deviceconsole-1.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/deviceconsole/-/deviceconsole-1.0.1.tgz"
+}
